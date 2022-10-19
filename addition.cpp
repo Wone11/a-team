@@ -6,6 +6,6 @@ int main(){
     cin>>a;
     cin>>b;
     cout<<a+b;
-    //werftgyhjukilogthyui
+    //please boss
 return 0;
 }
