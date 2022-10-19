@@ -7,5 +7,6 @@ int main(){
     cin>>b;
     cout<<a+b;
     //please boss
+    ////////////
 return 0;
 }
